@@ -1,5 +1,5 @@
 export PATH := join(justfile_directory(), ".venv", "bin") + ":" + env_var('PATH')
-db_url := "sqlite:///./demo.sqlite3"
+db_url := "sqlite:///db/demo.sqlite3"
 
 # start server
 start:
