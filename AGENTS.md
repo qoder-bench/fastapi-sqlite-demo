@@ -3,10 +3,13 @@
 ## Tech Stack
 
 - Python 3.13
+- Project/Package Manager: [uv](https://docs.astral.sh/uv)
 - Web Framework: FastAPI
 - Database: SQLite
 - ORM: SQLModel with async support
 - Testing: pytest
+- Linter: [ruff](https://github.com/astral-sh/ruff)
+- type checker: [ty](https://github.com/astral-sh/ty)
 
 ## Project structure
 
