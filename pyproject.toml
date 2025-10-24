@@ -1,9 +1,9 @@
 [project]
-name = "uv-fastapi-example"
+name = "fastapi-sqlite-demo"
 version = "0.1.0"
-description = "Add your description here"
+description = "FastAPI demo application using SQLite and SQLModel"
 readme = "README.md"
-requires-python = ">=3.12"
+requires-python = ">=3.13"
 dependencies = [
     "aiosqlite>=0.21.0",
     "fastapi[standard]>=0.112.1",
