@@ -33,6 +33,12 @@ The project uses [just](https://github.com/casey/just) as task runner.
 - Start server: `just start`
 - Generate SQLModels: `just gen-sqlmodels`
 
+## Python Guide Line
+
+* Modern Python 3.13 with full type hints
+* Proper error handling and logging
+* Clean architecture with SOLID principles
+
 ## Configurations
 
 The project use `.env` file to store configurations.
