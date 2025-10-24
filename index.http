@@ -1,0 +1,5 @@
+### welcome page
+GET http://127.0.0.1:8000/
+
+### get all hero
+GET http://127.0.0.1:8000/heros
